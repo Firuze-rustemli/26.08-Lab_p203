@@ -1,0 +1,23 @@
+.header{
+border:1px solid blue;
+padding:30px;
+}
+.middle{
+border:1px solid red;
+padding:20px;
+}
+.footer{
+border:1px solid red;
+padding:20px;
+}
+.left{
+background:yellow;
+float:left;
+}
+.right{
+background:green;
+float:right;
+}
+.clear{
+clear:both;
+}
